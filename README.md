@@ -2,7 +2,7 @@
 
 Final year Computer Science undergraduate at IIMS College, Naxal. I build full-stack web applications using the MERN stack and I'm actively looking for an internship in web development or AI/ML.
 
-🌍 Kathmandu, Nepal &nbsp;|&nbsp; 🌐 [nitinsonu.dev](https://nitinsonu.dev)
+🌍 Lalitpur, Nepal &nbsp;|&nbsp; 🌐 [nitinsonu.dev](https://nitinsonu.dev)
 
 ---
 
