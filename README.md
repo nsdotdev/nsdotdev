@@ -10,25 +10,25 @@ Final year Computer Science undergraduate at IIMS College, Naxal. I build full-s
 
 **Frontend**
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,tailwind)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=react,js,html,css,tailwind)
 
 **Backend**
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,php,mysql)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,php,mysql)
+
+**Tools & Workflow**
+
+![My Skills](https://skillicons.dev/icons?i=git,vscode,figma,linux,vercel,postman)
 
 **Data & Visualization**
 
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=python)
 &nbsp;
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-
-**Tools & Workflow**
-
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,figma,linux,vercel,postman)](https://skillicons.dev)
 
 ---
 
