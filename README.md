@@ -35,7 +35,7 @@ Final year Computer Science undergraduate at IIMS College, Naxal. I build full-s
 
 | Project | Description | Stack | Links |
 |---|---|---|---|
-| **CareSync** | Healthcare management system with role-based access control for admin, doctor, and patient | React, Node.js, Express, MongoDB | [Live](https://caresync.nitinsonu.dev) · [Repo](https://github.com/nsdotdev/caresync) |
+| **CareSync** | Healthcare management system with role-based access control for admin, doctor, and receptionist | React, Node.js, Express, MongoDB | [Live](https://caresync.nitinsonu.dev) · [Repo](https://github.com/nsdotdev/caresync) |
 | **DevCollab** | Full-stack social platform for developers with posts, follow system, and explore feed | React, Node.js, Express, MongoDB | [Live](https://devcollab.nitinsonu.dev) · [Repo](https://github.com/nsdotdev/devcollab) |
 | **PrepAI** | Interview preparation tool with AI-powered question generation and answer evaluation | React, Node.js, MongoDB, OpenAI API | [Live](https://prepai.nitinsonu.dev) · [Repo](https://github.com/nsdotdev/prepai) |
 | **SDG Data Visualization** | Interactive dashboard analyzing urbanization vs PM2.5 air pollution using World Bank data | Python, Streamlit, Plotly, Pandas | [Live](https://nsdd-sdg.streamlit.app) · [Repo](https://github.com/nsdotdev/sdg-data-visualization) |
